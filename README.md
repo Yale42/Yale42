@@ -1,16 +1,41 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Yael Gonzalez
 
-<!--
-**Yale42/Yale42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Desarrollo de Software y actualmente me encuentro construyendo mi camino como desarrollador Full Stack.
 
-Here are some ideas to get you started:
+Me interesa desarrollar software que simplifique procesos, automatice tareas y aporte soluciones útiles a problemas reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En este perfil documento mi aprendizaje, comparto mis proyectos y muestro cómo evoluciono como ingeniero de software.
+
+---
+
+## 💭 Mi enfoque
+
+Para mí, desarrollar software no consiste únicamente en escribir código.
+
+Creo que las mejores soluciones nacen de comprender el problema, analizar las necesidades y elegir la tecnología adecuada para resolverlas.
+
+Mi objetivo es construir aplicaciones que sean útiles, mantenibles y que generen valor para las personas y las organizaciones.
+
+---
+
+## 🚀 Actualmente
+
+- 📚 Aprendiendo nuevas tecnologías y buenas prácticas de ingeniería de software.
+- 💻 Desarrollando proyectos Full Stack.
+- ⚙️ Fortaleciendo mis conocimientos en arquitectura de software y bases de datos.
+- 📖 Documentando mi proceso de aprendizaje y desarrollo.
+
+---
+
+## 🛠️ Tecnologías
+
+- TypeScript
+- JavaScript
+- Angular
+- NestJS
+- Python
+- PostgreSQL
+- MySQL
+- Docker
+- Git
+- Linux
