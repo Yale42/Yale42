@@ -35,21 +35,40 @@ Mi objetivo es construir aplicaciones que sean útiles, mantenibles y que genere
 
 ## 🛠️ Tecnologías
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **Frontend**
 <br>
 <img src="https://skillicons.dev/icons?i=ts,js,angular,tailwind" />
+
+</td>
+<td valign="top" width="50%">
 
 **Backend**
 <br>
 <img src="https://skillicons.dev/icons?i=nestjs,python" />
 
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
 **Bases de Datos**
 <br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
+</td>
+<td valign="top" width="50%">
+
 **Herramientas y DevOps**
 <br>
 <img src="https://skillicons.dev/icons?i=docker,git,linux" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
