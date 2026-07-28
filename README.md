@@ -44,12 +44,12 @@ Mi objetivo es construir aplicaciones que sean útiles, mantenibles y que genere
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yale42&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yale42&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yale42&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yale42&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9" width="49%" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yale42&theme=dark&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="70%" />
+<img src="https://streak-stats.demolab.com/?user=Yale42&theme=dark&hide_border=true&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="70%" />
 </div>
 
 <br>
@@ -60,7 +60,7 @@ Mi objetivo es construir aplicaciones que sean útiles, mantenibles y que genere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yael-gonzalez-mendoza-16511b352)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_yale_zalez)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ygonzalezael256@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ygonzalezael256@gmail.com)
 
 </div>
 
